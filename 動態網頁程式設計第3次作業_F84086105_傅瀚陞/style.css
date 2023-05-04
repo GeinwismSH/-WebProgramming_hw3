@@ -1,0 +1,39 @@
+/* <!--
+F84086105 傅瀚陞 第3次作業 5/2
+F84086105 HanShengFu The Third Homework 5/2
+--> */
+
+img           { margin-right: 10px; }
+table         { width: 200px;
+                border-collapse:collapse; 
+                background-color: lightblue; }
+table, td, th { border: 1px solid black; 
+                padding: 4px; 
+                margin-top: 20px; }
+th            { text-align: left; 
+                color: white;
+                background-color: darkblue; }
+
+
+.pokers  {
+    width: 8%;
+    margin: 5px;
+}
+.chips{
+    width: 8%;
+    margin: auto;
+}
+.button,.option{
+    width: 8%;
+    height: 5%;
+    margin: auto;
+}
+
+
+
+#background_main{  
+    background-color: rgb(4, 61, 4);
+    background-position:100% center;
+    background-origin:border-box;
+    background-size:cover;
+    background-repeat:no-repeat;}
